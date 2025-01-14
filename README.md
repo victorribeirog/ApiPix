@@ -6,7 +6,6 @@ Este projeto implementa uma API RESTful para realizar transferências via Pix e 
 ## Funcionalidades
 - **Gerenciamento de Contas Bancárias**:
   - Cadastro de novas contas bancárias.
-  - Consulta de contas por chave Pix.
 - **Transferências via Pix**:
   - Realizar transferências de valores entre contas utilizando chaves Pix.
 
